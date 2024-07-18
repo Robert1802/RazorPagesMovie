@@ -15,6 +15,6 @@ This series includes the following tutorials:
 
 At the end, you'll have an app that can display and manage a database of movies.
 
-(https://learn.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/index/_static/sample-page.png)
+![alt text](https://learn.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/index/_static/sample-page.png)
 
-(https://learn.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/index/_static/sample-page-validation.png)
+![alt text](https://learn.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/index/_static/sample-page-validation.png)
